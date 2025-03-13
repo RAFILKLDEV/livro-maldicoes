@@ -258,7 +258,7 @@ function App() {
 					id="Estudo"
 					className="Paragraph"
 				>
-					Eu sempre me perguntei por que os bruxos usam os pecados capitais como fonte de poder para a Arte das Trevas. Como uma estudioso e
+					Eu sempre me perguntei por que os bruxos usam os pecados capitais como fonte de poder para a Arte das Trevas. Como um estudioso e
 					pesquisador da magia, fui a fundo nesse assunto e descobri que pecados são considerados negativos porque representam comportamentos e
 					atitudes prejudiciais para a Alma. Capazes de trazer ruína as Almas mais gentis.
 				</p>
